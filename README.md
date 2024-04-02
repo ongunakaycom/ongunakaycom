@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @ongunakaycom
-- 👀 I’m interested in processwire cms
-- 🌱 I’m currently learning cms core
-- 💞️ I’m looking to collaborate on processwire core
-- 📫 How to reach me info@ongunakay.com
+# Hi there! 👋
 
-<!---
-ongunakaycom/ongunakaycom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various technologies including Bootstrap, ProcessWire, Laravel, Webflow, WordPress, and CodeIgniter.
+
+## About Me
+
+- 👀 I specialize in full-stack development with extensive experience in frontend and backend technologies.
+- 🌱 Currently, I'm sharpening my skills in advanced concepts of web development.
+- 💞️ I’m always open to exciting collaborations and projects that challenge my abilities.
+- 📫 You can reach me at [info@ongunakay.com](mailto:info@ongunakay.com).
+
+## Portfolio Projects
+
+### Project 1: Duo Bingo
+- Description: A JavaScript project that implements a bingo game.
+- Technologies: JavaScript
+- [Repository](link) | [Live Demo](link)
+
+### Project 2: Weather7 Radar
+- Description: A simple weather application that allows users to search for weather information by city name.
+- Technologies: JavaScript, Bootstrap, OpenWeatherMap API
+- [Repository](link) | [Live Demo](link)
+
+### Project 3: VercelVoyage
+- Description: A beginner learning project developed using Next.js and deployed on Vercel.
+- Technologies: TypeScript, Next.js, Vercel Deployment
+- [Repository](link) | [Live Demo](link)
+
+### Project 4: ReactRocket
+- Description: An example for framework builders and advanced usage of the low-level Vercel Build Output API.
+- Technologies: React, TypeScript, Vercel Deployment
+- [Repository](link) | [Live Demo](link)
+
+### Project 5: SpotiVibe
+- Description: Your Ultimate Spotify Experience. Built with React & Tailwind CSS for seamless music streaming and personalized playlists.
+- Technologies: React, Tailwind CSS
+- [Repository](link) | [Live Demo](link)
