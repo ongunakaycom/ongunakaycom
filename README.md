@@ -14,7 +14,7 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ### Project 1: Duo Bingo
 - Description: A JavaScript project that implements a bingo game.
 - Technologies: JavaScript
-- [Repository](link) | [Live Demo](link)
+- [Repository](https://github.com/ongunakaycom/duo-bingo) | [Live Demo](https://duo-bingo.vercel.app)
 
 ### Project 2: Weather7 Radar
 - Description: A simple weather application that allows users to search for weather information by city name.
