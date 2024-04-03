@@ -24,7 +24,7 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ### Project 3: VercelVoyage
 - Description: A beginner learning project developed using Next.js and deployed on Vercel.
 - Technologies: TypeScript, Next.js, Vercel Deployment
-- [Repository](link) | [Live Demo](link)
+- [Repository](https://github.com/ongunakaycom/VercelVoyage) | [Live Demo](https://next-js-gules-phi.vercel.app/)
 
 ### Project 4: ReactRocket
 - Description: An example for framework builders and advanced usage of the low-level Vercel Build Output API.
