@@ -19,7 +19,7 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ### Project 2: Weather7 Radar
 - Description: A simple weather application that allows users to search for weather information by city name.
 - Technologies: JavaScript, Bootstrap, OpenWeatherMap API
-- [Repository](link) | [Live Demo](link)
+- [Repository](https://github.com/ongunakaycom/Weather7-Radar) | [Live Demo](https://ongunakaycom.github.io/Weather7-Radar/)
 
 ### Project 3: VercelVoyage
 - Description: A beginner learning project developed using Next.js and deployed on Vercel.
