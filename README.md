@@ -34,4 +34,4 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ### Project 5: SpotiVibe
 - Description: Your Ultimate Spotify Experience. Built with React & Tailwind CSS for seamless music streaming and personalized playlists.
 - Technologies: React, Tailwind CSS
-- [Repository](link) | [Live Demo](link)
+- [Repository](https://github.com/ongunakaycom/SpotiVibe-A-Dynamic-Spotify-Clone-with-React-Tailwind-CSS) | [Live Demo](https://spotify-clone-ongun-akays-projects.vercel.app/)
