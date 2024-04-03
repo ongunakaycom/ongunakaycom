@@ -29,7 +29,7 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ### Project 4: ReactRocket
 - Description: An example for framework builders and advanced usage of the low-level Vercel Build Output API.
 - Technologies: React, TypeScript, Vercel Deployment
-- [Repository](link) | [Live Demo](link)
+- [Repository](https://github.com/ongunakaycom/ReactRocket) | [Live Demo](https://react-edge-functions-silk.vercel.app/)
 
 ### Project 5: SpotiVibe
 - Description: Your Ultimate Spotify Experience. Built with React & Tailwind CSS for seamless music streaming and personalized playlists.
