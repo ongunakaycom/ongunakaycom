@@ -12,26 +12,19 @@ I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various tech
 ## Portfolio Projects
 
 ### Project 1: Duo Bingo
-- Description: A JavaScript project that implements a bingo game.
-- Technologies: JavaScript
 - [Repository](https://github.com/ongunakaycom/duo-bingo) | [Live Demo](https://duo-bingo.vercel.app)
 
 ### Project 2: Weather7 Radar
-- Description: A simple weather application that allows users to search for weather information by city name.
-- Technologies: JavaScript, Bootstrap, OpenWeatherMap API
 - [Repository](https://github.com/ongunakaycom/Weather7-Radar) | [Live Demo](https://ongunakaycom.github.io/Weather7-Radar/)
 
 ### Project 3: VercelVoyage
-- Description: A beginner learning project developed using Next.js and deployed on Vercel.
-- Technologies: TypeScript, Next.js, Vercel Deployment
 - [Repository](https://github.com/ongunakaycom/VercelVoyage) | [Live Demo](https://next-js-gules-phi.vercel.app/)
 
 ### Project 4: ReactRocket
-- Description: An example for framework builders and advanced usage of the low-level Vercel Build Output API.
-- Technologies: React, TypeScript, Vercel Deployment
 - [Repository](https://github.com/ongunakaycom/ReactRocket) | [Live Demo](https://react-edge-functions-silk.vercel.app/)
 
 ### Project 5: SpotiVibe
-- Description: Your Ultimate Spotify Experience. Built with React & Tailwind CSS for seamless music streaming and personalized playlists.
-- Technologies: React, Tailwind CSS
 - [Repository](https://github.com/ongunakaycom/SpotiVibe-A-Dynamic-Spotify-Clone-with-React-Tailwind-CSS) | [Live Demo](https://spotify-clone-ongun-akays-projects.vercel.app/)
+
+### Project 6: Interactive-Sum-Calculator
+- [Repository](https://github.com/ongunakaycom/Interactive-Sum-Calculator) | [Live Demo](https://ongunakaycom.github.io/Interactive-Sum-Calculator/)
