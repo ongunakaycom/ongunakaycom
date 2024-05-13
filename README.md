@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various technologies including Bootstrap, ProcessWire, Laravel, Webflow, WordPress, and CodeIgniter.
+I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various technologies.
 
 ## About Me
 
