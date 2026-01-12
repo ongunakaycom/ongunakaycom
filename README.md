@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various technologies.
+I'm Ongun Akay, Full-Stack Developer with expertise across various technologies.
 
 ## About Me
 
