@@ -1,11 +1,8 @@
 # Hi there! 👋
 
-I'm Ongun Akay, Full-Stack Developer with expertise across various technologies.
+Full Stack & DevOps Software Engineer with hands-on experience delivering production-ready web
+and AI-driven applications. Skilled in integrating LLMs, building AI-assisted features, and implementing automated CI/CD pipelines. Strong focus on scalable architecture, maintainable codebases, and modern 
+cloud-native deployment practices.
 
-## About Me
-
-- 👀 I specialize in full-stack development with extensive experience in frontend and backend technologies.
-- 🌱 Currently, I'm sharpening my skills in advanced concepts of web development.
-- 💞️ I’m always open to exciting collaborations and projects that challenge my abilities.
-- 🌐 Visit my website: https://ongunakay.com
-- 📫 You can reach me at [info@ongunakay.com](mailto:info@ongunakay.com)
+- Visit my website: https://ongunakay.com
+- You can reach me at [info@ongunakay.com](mailto:info@ongunakay.com)
